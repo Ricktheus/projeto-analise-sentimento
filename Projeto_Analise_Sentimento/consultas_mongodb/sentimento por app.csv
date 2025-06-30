@@ -1,0 +1,6 @@
+_id,sentimentos[0].sentimento,sentimentos[1].sentimento,sentimentos[2].sentimento,sentimentos[0].total,sentimentos[1].total,sentimentos[2].total
+Facebook Messenger,neutro,positivo,negativo,305,6920,2775
+LINE,neutro,positivo,negativo,364,4661,4975
+Skype,neutro,positivo,negativo,356,6914,2730
+Viber,neutro,negativo,positivo,323,2856,6821
+WhatsApp,negativo,positivo,neutro,1787,7992,221

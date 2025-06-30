@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.pyc
+
+# SQLite
+*.db
+
+# Dados exportados (mantém README.md, se houver)
+dados_exportados_csv/*
+!dados_exportados_csv/README.md
+
+dados_fonte/*
+!dados_fonte/README.md
+
+# Logs
+*.log
+
+# Outros arquivos temporários
+*.tmp
+*.bak 
